@@ -1,6 +1,24 @@
 # journal
 #### Journal about new things learned
 
+## 9/10
+### Visual studio code
+- to uppercase/lowercase
+```json
+[
+    {
+        "key": "ctrl+shift+u",
+        "command": "editor.action.transformToUppercase",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "editor.action.transformToLowercase",
+        "when": "editorTextFocus"
+    }
+]
+```
+
 ## 9/7
 ### Visual studio code
 - find none ASCII char
